@@ -1,6 +1,15 @@
 # T-REX-MINER
-Download T-Rex miner for all NVIDIA GPUs
+Download T-Rex miner for all NVIDIA GPUs:
 
+Windows:
+
+https://github.com/mjkbit/T-REX-MINER/releases/download/T-REX-MINER/t-rex-miner-windows.zip
+
+linux:
+
+https://github.com/mjkbit/T-REX-MINER/releases/download/T-REX-MINER/t-rex-miner-linux.tar.gz
+
+Website: https://softube.ir/
 
 Donate Us: Ethereum & All BEP2 Coins:
 
