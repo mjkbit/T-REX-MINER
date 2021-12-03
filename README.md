@@ -9,7 +9,7 @@ linux:
 
 https://github.com/mjkbit/T-REX-MINER/releases/download/T-REX-MINER/t-rex-miner-linux.tar.gz
 
-Website: https://softube.ir/
+Website: https://sltube.ir/
 
 Donate Us: Ethereum & All BEP2 Coins:
 
